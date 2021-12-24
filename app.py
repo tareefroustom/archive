@@ -2,7 +2,6 @@ import streamlit as st
 import spacy
 
 from spacy_streamlit import visualize_ner
-from support_functions import HealthseaPipe
 import operator
 # Header
 import benepar
