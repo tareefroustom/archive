@@ -3,3 +3,4 @@ spacy-streamlit>=1.0.2
 spacy>=3.1.4
 benepar>=0.2.0
 https://huggingface.co/explosion/en_healthsea/resolve/main/en_healthsea-any-py3-none-any.whl
+bs4
